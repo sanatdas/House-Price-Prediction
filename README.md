@@ -1,4 +1,4 @@
-# House Price Prediction using Rgression Analysis
+## House Price Prediction using Regression Analysis
 ## Overview
 
 ## Objective
